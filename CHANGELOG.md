@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.3](https://github.com/chilllab/react-nice-avatar/compare/v1.5.2...v1.5.3) (2023-12-31)
+
 ### 1.5.2 (2023-12-31)
 
 
