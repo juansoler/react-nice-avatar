@@ -33,7 +33,7 @@ module.exports = merge(baseConfig({ includeReactHotLoader: true }), {
   devServer: {
     hot: true,
     historyApiFallback: true,
-    port: 8080
+    port: 8090
   },
   plugins: [
     new webpack.DefinePlugin({
